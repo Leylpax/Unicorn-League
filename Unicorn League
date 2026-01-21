@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Unicorn League | Unicorn Racket Club</title>
+
+    <!-- Tipografía elegante -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f5f5f5;
+            color: #222;
+        }
+
+        header {
+            background: #ffffff;
+            text-align: center;
+            padding: 40px 20px 20px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        header img {
+            max-width: 150px;
+            margin-bottom: 10px;
+        }
+
+        .intro-title {
+            text-align: center;
+            margin: 40px 0 10px;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 36px;
+            font-weight: 700;
+            letter-spacing: 2px;
+        }
+
+        section {
+            max-width: 900px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            margin-top: 20px;
+            border-radius: 10px;
+        }
+
+        h2 {
+            margin-top: 40px;
+        }
+
+        h3 {
+            margin-top: 30px;
+            border-bottom: 2px solid #000;
+            padding-bottom: 5px;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .highlight {
+            background: #f0f0f0;
+            padding: 15px;
+            border-left: 5px solid #000;
+            margin: 25px 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 14px;
+            color: #777;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <img src="logo.png" alt="Unicorn Racket Club">
+</header>
+
+<div class="intro-title">
+    🏆 UNICORN LEAGUE 🏆
+</div>
+
+<section>
+
+    <h2>🇪🇸 Normativa oficial – Español</h2>
+
+    <h3>Formato de competición y clasificación</h3>
+    <ul>
+        <li>Cada categoría contará inicialmente con 10 parejas, divididas en 2 grupos de 5 parejas.</li>
+        <li>En caso de alta demanda, la organización podrá ampliar el número de parejas por categoría.</li>
+        <li>Cualquier modificación será comunicada por los canales oficiales del club.</li>
+        <li>Las parejas organizarán sus partidos y deberán comunicar la fecha exacta al club con al menos una semana de antelación.</li>
+        <li>El club aportará las bolas para todos los encuentros.</li>
+    </ul>
+
+    <h3>Formato de partido</h3>
+    <ul>
+        <li>Partidos al mejor de 3 sets.</li>
+        <li>En caso de empate a 1 set, no se jugará tercer set.</li>
+        <li>El partido se decidirá mediante un super tie-break a 10 puntos.</li>
+    </ul>
+
+    <h3>Sistema de puntuación</h3>
+    <ul>
+        <li>Partido ganado en 2 sets → <strong>+3 puntos</strong></li>
+        <li>Partido ganado en super tie-break → <strong>+2 puntos</strong></li>
+        <li>Partido perdido en super tie-break → <strong>-1 punto</strong></li>
+        <li>Partido perdido en 2 sets → <strong>-2 puntos</strong></li>
+    </ul>
+
+    <h3>Criterios de desempate</h3>
+    <ul>
+        <li>Enfrentamiento directo</li>
+        <li>Mayor número de partidos ganados</li>
+        <li>Diferencia de sets</li>
+        <li>Diferencia de juegos</li>
+        <li>Sorteo realizado por la organización</li>
+    </ul>
+
+    <h3>Inscripción, calendario y resultados</h3>
+    <ul>
+        <li>La inscripción deberá abonarse lo antes posible para asegurar plaza.</li>
+        <li>Fecha límite fase liga: <strong>24 de abril</strong>.</li>
+        <li>Fase final: semana del <strong>27 de abril</strong>.</li>
+        <li>El formato exacto se anunciará tras el cierre de inscripciones.</li>
+    </ul>
+
+    <div class="highlight">
+        <h3>Confirmación de resultados</h3>
+        <p>
+            Los resultados deberán ser confirmados por ambos equipos enviando un WhatsApp al:<br>
+            <strong>+34 650 703 428</strong>
+        </p>
+        <p>
+            Si no se confirma el resultado en un plazo máximo de 12 horas, el partido se anotará
+            como perdido en dos sets para la pareja que no haya confirmado.
+        </p>
+    </div>
+
+    <h2>🇬🇧 Official rules – English</h2>
+
+    <h3>Competition format and standings</h3>
+    <ul>
+        <li>Each category will initially consist of 10 pairs, divided into 2 groups of 5 pairs.</li>
+        <li>In case of high demand, the organization reserves the right to increase the number of pairs.</li>
+        <li>Any changes will be communicated through the club’s official channels.</li>
+        <li>Pairs are responsible for arranging their matches and informing the club at least one week in advance.</li>
+        <li>The club will provide the balls for all matches.</li>
+    </ul>
+
+    <h3>Match format</h3>
+    <ul>
+        <li>Matches will be played best of 3 sets.</li>
+        <li>If the score is tied 1–1 in sets, no third set will be played.</li>
+        <li>The match will be decided by a super tie-break to 10 points.</li>
+    </ul>
+
+    <h3>Scoring system</h3>
+    <ul>
+        <li>Match won in 2 sets → <strong>+3 points</strong></li>
+        <li>Match won in super tie-break → <strong>+2 points</strong></li>
+        <li>Match lost in super tie-break → <strong>-1 point</strong></li>
+        <li>Match lost in 2 sets → <strong>-2 points</strong></li>
+    </ul>
+
+    <div class="highlight">
+        <h3>Match result confirmation</h3>
+        <p>
+            Results must be confirmed by both teams via WhatsApp to:<br>
+            <strong>+34 650 703 428</strong>
+        </p>
+        <p>
+            If the result is not confirmed within 12 hours, it will be recorded
+            as a two-set loss for the non-confirming pair.
+        </p>
+    </div>
+
+</section>
+
+<footer>
+    © Unicorn Racket Club
+</footer>
+
+</body>
+</html>
+
